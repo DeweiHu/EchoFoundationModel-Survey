@@ -22,5 +22,5 @@ This is an updating literature review of the foundation models for echocardiogra
 | 3 | EchoNet-LVH [link](https://stanfordaimi.azurewebsites.net/datasets/5b7fcc28-579c-4285-8b72-e4238eac7bd1) | TTE(PLAX) | video | 12,000 | Stanford University Hospital |
 | 4 | CAMUS [link](https://www.creatis.insa-lyon.fr/Challenge/camus/) | TTE(A2C,A4C) | video | 500 | University Hospital of St. Etienne |
 | 5 | TMED [link](https://tmed.cs.tufts.edu/) | TTE | video | 599 | Tufts Medical Center |
-| 6 | RVENET [link](https://rvenet.github.io/dataset/) | TTE(A4C) | video | 3,583 | Heart and Vascular Center of Semmelweis University in Budapest |
+| 6 | RVENet [link](https://rvenet.github.io/dataset/) | TTE(A4C) | video | 3,583 | Heart and Vascular Center of Semmelweis University in Budapest |
 
