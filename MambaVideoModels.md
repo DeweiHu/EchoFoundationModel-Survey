@@ -6,3 +6,4 @@ This is an updating summary on the literature of the implementation of state-spa
 | :--: | :--------- | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 1 | Videomamba: State space model for efficient video understanding [pdf](https://arxiv.org/pdf/2403.06977) | 2024 | Shanghai AI Laboratory | [Github](https://github.com/OpenGVLab/VideoMamba) | natural video | - |
 | 2 | Video mamba suite: State space model as a versatile alternative for video understanding [pdf](https://arxiv.org/pdf/2403.09626?) | 2024 | Shanghai AI Laboratory | [Github](https://github.com/OpenGVLab/video-mamba-suite) | natural video | - |
+| 3 | Vivim: a Video Vision Mamba for Medical Video Segmentation [pdf](https://arxiv.org/pdf/2401.14168) | 2024 | HKUST | [Github](https://github.com/scottyjyang/Vivim) | Ultrasound | - |
